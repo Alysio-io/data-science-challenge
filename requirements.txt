@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost # keep the XGBoost version up-to-date
+plotly
+statsmodels
